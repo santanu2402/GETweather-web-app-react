@@ -1,0 +1,150 @@
+@media screen and (min-width:0px) and (max-width:321px) {
+    .abtcontainer{
+        width:80%;
+        margin: auto;
+        margin-top:70%;
+    }
+    .underline{
+        text-decoration: underline  rgba(0, 0, 0, 0.897) 5%;
+    
+    }
+    .abtcontainer a{
+        color:red;
+    }
+}
+
+ @media screen and (min-width:321px) and (max-width:376px) {
+    .abtcontainer{
+        width:80%;
+        margin: auto;
+        margin-top:60%;
+    }
+    .underline{
+        text-decoration: underline  rgba(0, 0, 0, 0.897) 5%;
+    
+    }
+    .abtcontainer a{
+        color:red;
+    }
+}
+
+ @media screen and (min-width:377px) and (max-width:426px) {
+    .abtcontainer{
+        width:80%;
+        margin: auto;
+        margin-top:55%;
+    }
+    .underline{
+        text-decoration: underline  rgba(0, 0, 0, 0.897) 5%;
+    
+    }
+    .abtcontainer a{
+        color:red;
+    }
+}
+
+ @media screen and (min-width:426px) and (max-width:480px) {
+    .abtcontainer{
+        width:80%;
+        margin: auto;
+        margin-top:55%;
+    }
+    .underline{
+        text-decoration: underline  rgba(0, 0, 0, 0.897) 5%;
+    
+    }
+    .abtcontainer a{
+        color:red;
+    }
+}
+
+ @media screen and (min-width:481px) and (max-width:768px) {
+    .abtcontainer{
+        width:80%;
+        margin: auto;
+        margin-top:28.5%;
+    }
+    .underline{
+        text-decoration: underline  rgba(0, 0, 0, 0.897) 5%;
+    
+    }
+    .abtcontainer a{
+        color:red;
+    }
+}
+
+ @media screen and (min-width:769px) and (max-width:1024px) {
+    .abtcontainer{
+        width:80%;
+        margin: auto;
+        margin: 15%;
+    }
+    .underline{
+        text-decoration: underline  rgba(0, 0, 0, 0.897) 5%;
+    
+    }
+    .abtcontainer a{
+        color:red;
+    }
+}
+
+ @media screen and (min-width:1025px)  {
+    .abtcontainer{
+        width:80%;
+        margin: auto;
+        margin-top:12%;
+    }
+    .underline{
+        text-decoration: underline  rgba(0, 0, 0, 0.897) 5%;
+    
+    }
+    .abtcontainer a{
+        color:red;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .abtcontainer{
+    width:80%;
+    margin: auto;
+    margin-top:10%;
+}
+.underline{
+    text-decoration: underline  rgba(0, 0, 0, 0.897) 5%;
+
+}
+.abtcontainer a{
+    color:red;
+}
+@media screen and (max-width:480px) {
+    .abtcontainer{
+        width:80%;
+        margin: auto;
+        margin-top:50%;
+    }
+    .underline{
+        text-decoration: underline  rgba(0, 0, 0, 0.897) 5%;
+    
+    }
+    .abtcontainer a{
+        color:red;
+    }
+}
+
+@media screen and (min-width:482px) and (max-width:768px) {
+    .abtcontainer{
+        margin-top:24%;
+    }
+
+} */

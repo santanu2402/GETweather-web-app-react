@@ -1,0 +1,19 @@
+.heading
+{   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    padding-top:20px;
+   transform: scale(2);
+    font-weight:bolder;
+
+    }
+
+.card-container{
+    width: 100vw;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

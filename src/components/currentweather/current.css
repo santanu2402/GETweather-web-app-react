@@ -1,0 +1,909 @@
+@media screen and (min-width:0px) and (max-width:321px) {
+
+    .parentcon {
+        margin-top: 70%;
+    }
+
+    .headingcur {
+        display: flex;
+        justify-content: center;
+        font-size: 150%;
+        font-weight: bolder;
+    }
+
+    .con {
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: rgba(1, 71, 185, 0.663);
+        backdrop-filter: blur(5px);
+        border-radius: 5%;
+        box-shadow: 1px 1px 7px 3px rgba(11, 0, 57, 0.812);
+        width: 95%;    
+    }
+
+    .con1,
+    .con2,
+    .con3 {
+        width: 100%;
+    }
+
+    /*container 1 start*/
+
+    .con1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .topleft {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: normal;
+
+    }
+    .cityname {
+        margin: -0.1% auto;
+        font-size: 2rem;
+        font-weight: bold;
+    }
+    .weathertype {
+        margin: -5% auto;
+        font-size: 1.5rem;
+    }
+
+    .weatherimg {
+        margin: -15% auto;
+        transform: scale(75%);
+    }
+    .weatherimg:hover {
+        transform: scale(85%);
+    }
+
+    /*container 2 start*/
+    .ctemperature:hover {
+        transform: scale(110%);
+    }
+
+    .con2 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .topmiddle {
+        margin: -5% auto;
+    }
+
+    .ctemperature {
+        font-size: 3rem;
+        font-weight: bolder;
+        margin: auto -25%;
+    }
+
+    .ftemperature {
+        font-size: 2rem;
+        font-weight: bold;
+        margin: auto;
+        margin-right: 2rem;
+    }
+
+    .bottommiddle {
+        width:100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 110%;
+        margin: 0% 5%;
+    }
+    .mintempvalue,
+    .maxtempvalue,
+    .mintemplabel,
+    .maxtemplabel {
+      margin: -0% auto;
+    }
+
+
+    /*container 3 start*/
+    .detailsheading {
+        margin: -0.1% auto;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .con3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .param-row {
+       margin:auto 5%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: 110%;
+    }
+}
+
+@media screen and (min-width:321px) and (max-width:376px) {
+    .parentcon {
+        margin-top: 60%;
+    }
+
+    .headingcur {
+        display: flex;
+        justify-content: center;
+        font-size: 150%;
+        font-weight: bolder;
+    }
+
+    .con {
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: rgba(1, 71, 185, 0.663);
+        backdrop-filter: blur(5px);
+        border-radius: 5%;
+        box-shadow: 1px 1px 7px 3px rgba(11, 0, 57, 0.812);
+        width: 95%;    
+    }
+
+    .con1,
+    .con2,
+    .con3 {
+        width: 100%;
+    }
+
+    /*container 1 start*/
+
+    .con1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .topleft {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: normal;
+
+    }
+    .cityname {
+        margin: -0.1% auto;
+        font-size: 2rem;
+        font-weight: bold;
+    }
+    .weathertype {
+        margin: -5% auto;
+        font-size: 1.5rem;
+    }
+
+    .weatherimg {
+        margin: -15% auto;
+        transform: scale(75%);
+    }
+    .weatherimg:hover {
+        transform: scale(85%);
+    }
+
+    /*container 2 start*/
+    .ctemperature:hover {
+        transform: scale(110%);
+    }
+
+    .con2 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .topmiddle {
+        margin: -5% auto;
+    }
+
+    .ctemperature {
+        font-size: 3rem;
+        font-weight: bolder;
+        margin: auto -25%;
+    }
+
+    .ftemperature {
+        font-size: 2rem;
+        font-weight: bold;
+        margin: auto;
+        margin-right: 2rem;
+    }
+
+    .bottommiddle {
+        width:100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 110%;
+        margin: 0% 5%;
+    }
+    .mintempvalue,
+    .maxtempvalue,
+    .mintemplabel,
+    .maxtemplabel {
+      margin: -0% auto;
+    }
+
+
+    /*container 3 start*/
+    .detailsheading {
+        margin: -0.1% auto;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .con3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .param-row {
+       margin:auto 5%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: 110%;
+    }
+}
+
+@media screen and (min-width:377px) and (max-width:426px) {
+    .parentcon {
+        margin-top: 55%;
+    }
+
+    .headingcur {
+        display: flex;
+        justify-content: center;
+        font-size: 150%;
+        font-weight: bolder;
+    }
+
+    .con {
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: rgba(1, 71, 185, 0.663);
+        backdrop-filter: blur(5px);
+        border-radius: 5%;
+        box-shadow: 1px 1px 7px 3px rgba(11, 0, 57, 0.812);
+        width: 95%;    
+    }
+
+    .con1,
+    .con2,
+    .con3 {
+        width: 100%;
+    }
+
+    /*container 1 start*/
+
+    .con1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .topleft {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: normal;
+
+    }
+    .cityname {
+        margin: -0.1% auto;
+        font-size: 2rem;
+        font-weight: bold;
+    }
+    .weathertype {
+        margin: -5% auto;
+        font-size: 1.5rem;
+    }
+
+    .weatherimg {
+        margin: -15% auto;
+        transform: scale(75%);
+    }
+    .weatherimg:hover {
+        transform: scale(85%);
+    }
+
+    /*container 2 start*/
+    .ctemperature:hover {
+        transform: scale(110%);
+    }
+
+    .con2 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .topmiddle {
+        margin: -5% auto;
+    }
+
+    .ctemperature {
+        font-size: 3rem;
+        font-weight: bolder;
+        margin: auto -19%;
+    }
+
+    .ftemperature {
+        font-size: 2rem;
+        font-weight: bold;
+        margin: auto;
+        margin-right: 4rem;
+    }
+
+    .bottommiddle {
+        width:100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 110%;
+        margin: 0% 5%;
+    }
+    .mintempvalue,
+    .maxtempvalue,
+    .mintemplabel,
+    .maxtemplabel {
+      margin: -0% auto;
+    }
+
+
+    /*container 3 start*/
+    .detailsheading {
+        margin: -0.1% auto;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .con3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .param-row {
+       margin:auto 5%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: 110%;
+    }
+}
+
+@media screen and (min-width:426px) and (max-width:480px) {
+    .parentcon {
+        margin-top: 55%;
+    }
+
+    .headingcur {
+        display: flex;
+        justify-content: center;
+        font-size: 150%;
+        font-weight: bolder;
+    }
+
+    .con {
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: rgba(1, 71, 185, 0.663);
+        backdrop-filter: blur(5px);
+        border-radius: 5%;
+        box-shadow: 1px 1px 7px 3px rgba(11, 0, 57, 0.812);
+        width: 95%;    
+    }
+
+    .con1,
+    .con2,
+    .con3 {
+        width: 100%;
+    }
+
+    /*container 1 start*/
+
+    .con1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .topleft {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: normal;
+
+    }
+    .cityname {
+        margin: -0.1% auto;
+        font-size: 2rem;
+        font-weight: bold;
+    }
+    .weathertype {
+        margin: -5% auto;
+        font-size: 1.5rem;
+    }
+
+    .weatherimg {
+        margin: -15% auto;
+        transform: scale(75%);
+    }
+    .weatherimg:hover {
+        transform: scale(85%);
+    }
+
+    /*container 2 start*/
+    .ctemperature:hover {
+        transform: scale(110%);
+    }
+
+    .con2 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .topmiddle {
+        margin: -5% auto;
+    }
+
+    .ctemperature {
+        font-size: 3rem;
+        font-weight: bolder;
+        margin: auto -35%;
+    }
+
+    .ftemperature {
+        font-size: 2rem;
+        font-weight: bold;
+        margin: auto;
+        margin-right: 5rem;
+    }
+
+    .bottommiddle {
+        width:100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        font-size: 110%;
+        margin: 0% 5%;
+    }
+    .mintempvalue,
+    .maxtempvalue,
+    .mintemplabel,
+    .maxtemplabel {
+      margin: -0% auto;
+    }
+
+
+    /*container 3 start*/
+    .detailsheading {
+        margin: -0.1% auto;
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+
+    .con3 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .param-row {
+       margin:auto 5%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        font-size: 110%;
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:768px) {
+    
+.parentcon{
+    margin-top:30%;
+} 
+.headingcur {
+    display: flex;
+    justify-content: center;
+    font-size: 200%;
+    font-weight: bolder;
+}
+.con
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:-3% auto;
+}
+
+.con1,.con2,.con3{
+    width:30%;
+    margin:1.5%;
+    background: rgba(1, 71, 185, 0.663);
+    backdrop-filter: blur(5px);
+    border-radius: 9%;
+    box-shadow: 1px 1px 7px 3px rgba(11, 0, 57, 0.812);
+}
+
+/*container 1 start*/
+
+.con1{
+    display: flex;
+    flex-direction: column;
+}
+
+.topleft{
+    display: flex;
+    flex-direction: column;   
+}
+.bottomleft{
+    margin:auto;
+   }
+.cityname{
+    margin:-0.1% auto;
+    font-size: 2rem;
+    font-weight:bold;
+}
+.weathertype{
+    margin:-5% auto;
+    font-size: 1.5rem;
+}
+.weatherimg{
+    transform: scale(120%);
+
+}
+.weatherimg:hover{
+    transform: scale(135%);
+}
+/*container 2 start*/
+.ctemperature:hover{
+    transform: scale(110%);
+}
+.con2{
+    display: flex;
+    flex-direction: column;
+}
+.topmiddle{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+margin:auto;
+}
+
+.ctemperature{
+    font-size: 3.7rem;
+    font-weight: bolder;
+    margin:auto;
+}
+.ftemperature{
+    font-size: 2rem;
+    font-weight: bold;
+    margin:auto;
+}
+.middlemiddle{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.bottommiddle{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+margin:3% 3%;
+}
+.mintemplabel,.maxtemplabel{
+    font-weight: bolder;
+}
+.mintempvalue,.maxtempvalue,.mintemplabel,.maxtemplabel{
+    margin:1% auto;
+}
+
+
+/*container 3 start*/
+.detailsheading{
+    margin:auto;
+    font-size: 1.5rem;
+    font-weight:bold;
+}
+.con3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    }
+
+.param-row{
+margin: auto 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 110%;
+}
+}
+
+@media screen and (min-width:769px) and (max-width:1024px) {
+      
+.parentcon{
+    margin-top:15%;
+} 
+.headingcur {
+    display: flex;
+    justify-content: center;
+    font-size: 200%;
+    font-weight: bolder;
+}
+.con
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:-3% auto;
+}
+
+.con1,.con2,.con3{
+    width:30%;
+    margin:1.5%;
+    background: rgba(1, 71, 185, 0.663);
+    backdrop-filter: blur(5px);
+    border-radius: 9%;
+    box-shadow: 1px 1px 7px 3px rgba(11, 0, 57, 0.812);
+}
+
+/*container 1 start*/
+
+.con1{
+    display: flex;
+    flex-direction: column;
+}
+
+.topleft{
+    display: flex;
+    flex-direction: column;   
+}
+.bottomleft{
+    margin:auto;
+   }
+.cityname{
+    margin:-0.1% auto;
+    font-size: 2rem;
+    font-weight:bold;
+}
+.weathertype{
+    margin:-5% auto;
+    font-size: 1.5rem;
+}
+.weatherimg{
+    transform: scale(120%);
+
+}
+.weatherimg:hover{
+    transform: scale(135%);
+}
+/*container 2 start*/
+.ctemperature:hover{
+    transform: scale(110%);
+}
+.con2{
+    display: flex;
+    flex-direction: column;
+}
+.topmiddle{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+margin:auto;
+}
+
+.ctemperature{
+    font-size: 3.7rem;
+    font-weight: bolder;
+    margin:auto;
+}
+.ftemperature{
+    font-size: 2rem;
+    font-weight: bold;
+    margin:auto;
+}
+.middlemiddle{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.bottommiddle{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+margin:3% 3%;
+}
+.mintemplabel,.maxtemplabel{
+    font-weight: bolder;
+}
+.mintempvalue,.maxtempvalue,.mintemplabel,.maxtemplabel{
+    margin:1% auto;
+}
+
+
+/*container 3 start*/
+.detailsheading{
+    margin:auto;
+    font-size: 1.5rem;
+    font-weight:bold;
+}
+.con3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    }
+
+.param-row{
+margin: auto 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 110%;
+}
+}
+
+@media screen and (min-width:1025px) {
+      
+.parentcon{
+    margin-top:12%;
+} 
+.headingcur {
+    display: flex;
+    justify-content: center;
+    font-size: 200%;
+    font-weight: bolder;
+}
+.con
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:-3% auto;
+}
+
+.con1,.con2,.con3{
+    width:30%;
+    margin:1.5%;
+    background: rgba(1, 71, 185, 0.663);
+    backdrop-filter: blur(5px);
+    border-radius: 9%;
+    box-shadow: 1px 1px 7px 3px rgba(11, 0, 57, 0.812);
+}
+
+/*container 1 start*/
+
+.con1{
+    display: flex;
+    flex-direction: column;
+}
+
+.topleft{
+    display: flex;
+    flex-direction: column;   
+}
+.bottomleft{
+    margin:auto;
+   }
+.cityname{
+    margin:-0.1% auto;
+    font-size: 2rem;
+    font-weight:bold;
+}
+.weathertype{
+    margin:-5% auto;
+    font-size: 1.5rem;
+}
+.weatherimg{
+    transform: scale(120%);
+
+}
+.weatherimg:hover{
+    transform: scale(135%);
+}
+/*container 2 start*/
+.ctemperature:hover{
+    transform: scale(110%);
+}
+.con2{
+    display: flex;
+    flex-direction: column;
+}
+.topmiddle{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+margin:auto;
+}
+
+.ctemperature{
+    font-size: 3.7rem;
+    font-weight: bolder;
+    margin:auto;
+}
+.ftemperature{
+    font-size: 2rem;
+    font-weight: bold;
+    margin:auto;
+}
+.middlemiddle{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.bottommiddle{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+margin:3% 3%;
+}
+.mintemplabel,.maxtemplabel{
+    font-weight: bolder;
+}
+.mintempvalue,.maxtempvalue,.mintemplabel,.maxtemplabel{
+    margin:1% auto;
+}
+
+
+/*container 3 start*/
+.detailsheading{
+    margin:auto;
+    font-size: 1.5rem;
+    font-weight:bold;
+}
+.con3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    }
+
+.param-row{
+margin: auto 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 110%;
+}
+}
